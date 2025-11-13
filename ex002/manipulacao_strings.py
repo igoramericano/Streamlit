@@ -5,6 +5,6 @@ def contar_palavras(s):
 def verificar_palindromo(s):
     s = s.replace(" ", "").lower()
     if s == s[::-1]: 
-        return True
+        return Tru
     else:
         return False
