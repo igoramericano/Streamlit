@@ -1,4 +1,4 @@
-import operacoes as op
+import ex001a as op
 
 while True:
     try:

@@ -1,4 +1,4 @@
-import operacoes as op
+import ex003a as op
 
 figura = input("Digite a figura geométrica (triângulo, retângulo, círculo): ").strip().lower()
 if figura == "triângulo":

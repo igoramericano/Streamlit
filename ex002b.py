@@ -1,4 +1,4 @@
-import manipulacao_strings as ms
+import ex002a as ms
 
 try:
     s = input("Digite uma string (texto): ")
